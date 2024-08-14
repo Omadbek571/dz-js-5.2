@@ -1,5 +1,14 @@
 // 1-savol
 
+// const arr = ['apple', 'banana', 'kiwi', 'blueberry'];
+// function func(arr) {
+//     return arr.sort((a, b) => b.length - a.length);
+// }
+
+// const sortedArr = func(arr);
+// console.log(sortedArr);
+
+
 // 2-savol
 
 // let arr = ["salom", 12, "nima", true]
@@ -170,7 +179,7 @@
 // }
 
 // let result = func(array, searchStr);
-// console.log(result); 
+// console.log(result);
 
 
 
@@ -180,11 +189,11 @@
 
 // Global scope - dasturdagi har qanday joydan murojaat qilish mumkin
 // Local scope - faqat ma'lum bir funksiya ichida mavjud bo‘lgan o'zgaruvchilarni bildiradi funksiyadan tashqarida mavjud emas.
-// Block scope - faqat ma'lum bir kod blokida (masalan, if, for, while bloklarida) mavjud bo‘lgan o'zgaruvchilarni bildiradi. 
+// Block scope - faqat ma'lum bir kod blokida (masalan, if, for, while bloklarida) mavjud bo‘lgan o'zgaruvchilarni bildiradi.
 
 
 // Optional Chaining ?
-    // Agar siz nested obyektlarda mavjud bo'lmagan xususiyatlarga murojaat qilsangiz, odatda xatolik yuzaga keladi. Optional chaining bu muammoni hal qiladi, chunki u xususiyat mavjud bo'lmagan taqdirda undefined qaytaradi.
+// Agar siz nested obyektlarda mavjud bo'lmagan xususiyatlarga murojaat qilsangiz, odatda xatolik yuzaga keladi. Optional chaining bu muammoni hal qiladi, chunki u xususiyat mavjud bo'lmagan taqdirda undefined qaytaradi.
 // (?)
 
 // Nullish coleption
